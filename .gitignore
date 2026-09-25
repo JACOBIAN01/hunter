@@ -1,0 +1,8 @@
+# Personal data — never commit real values, only the .example templates
+profile/preferences.json
+profile/portfolio.json
+
+# Runtime queue/application data — contains your actual job search activity
+queue/queue.json
+jobs/*/
+!jobs/.gitkeep
