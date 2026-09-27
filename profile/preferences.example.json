@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "full_name": "",
+  "email": "",
+  "phone": "",
+  "location": "",
+  "work_authorization": "",
+  "sponsorship_required": null,
+  "notice_period_days": null,
+  "salary_expectation": { "currency": "", "min": null, "max": null, "period": "year", "note": "" },
+  "years_experience_total": null,
+  "skills_experience_years": {},
+  "remote_preference": "",
+  "willing_to_relocate": null,
+  "target_roles": [],
+  "excluded_companies": [],
+  "eeo_disclosure_preference": "decline",
+  "links": { "linkedin": "", "github": "", "portfolio": "" },
+  "stale_after_days": 14,
+  "fit_threshold": 0.7
+}
